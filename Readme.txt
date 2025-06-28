@@ -1,19 +1,27 @@
-# Fake Finder - The Legit News Finding dApp
-## Decentralized prediction market for news articles on the Ethereum blockchain,
-## A system where through crowdsourcing and a reputation system the market determines the quality of news. 
+# Fake Finder – The Legit News Finding dApp
+
+## Overview
+**Fake Finder** is a decentralized prediction market for news articles, built on the Ethereum blockchain. It uses crowdsourcing and a reputation system to collectively evaluate the authenticity and credibility of news content.
 
 ## The Team
-1. Sreeharsh K
-2. Arjun KV
-3. Sriprabha S
+- Sreeharsh K  
+- Arjun KV  
+- Sriprabha S
 
 ## The Product
-*Truffle init webpack* gave us a headstart.
-It is a webpack project which includes contracts, migrations, tests, and user interface to create an application based on Ethereum Blockchain.
+This project was bootstrapped using `truffle init webpack`, which provided a starting point with:
+- Smart contracts
+- Migration scripts
+- Test framework
+- Frontend UI powered by Webpack
+
+The goal is to create a fully decentralized application (dApp) that promotes truth in journalism via community consensus.
 
 ## Future Scope / ToDo
-We did miss implementing some features beacuse of lack of available time, but we aim to get it completed as soon as possible. 
-Improving the interface is certainly one of the priorities. The branch `ab-1` hosts the latest UI. 
+Although we’ve built a working prototype, some features were left out due to time constraints. We plan to:
+- Improve the user interface (see the `ab-1` branch for the latest version)
+- Enhance the prediction and reputation logic
+- Expand wallet support and smart contract interactions
 
 ## Technologies Used
 + Truffle
